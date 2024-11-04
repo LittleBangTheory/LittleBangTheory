@@ -1,16 +1,13 @@
-## Hi there 👋
+# LittleBangTheory
 
-<!--
-**LittleBangTheory/LittleBangTheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects : 
 
-Here are some ideas to get you started:
+- :man: Student in engineering, specialized in IT, networks, and cybersecurity.
+- :file_folder: You can find as pinned repositories some of my personal projects.
+- :hammer: [Fuzzungus](https://github.com/Projet-F/fuzzungus), a complete network fuzzer, forked from Boofuzz, a 6-month 3-persons full-time work !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Papers : 
+
+- :clock1: A quick State of the Art of the [Fuzzing community](https://gist.github.com/LittleBangTheory/d846bbb365f07b074ac0f53a1866a2df) 
+- :lock: A quick (french) explanation of [ElGamal Algorithm](https://gist.github.com/LittleBangTheory/12359b16e77197732feb48d2c632ade5)
+- :hash: [Introduction to hashing](https://gist.github.com/LittleBangTheory/32981bb8aefb84f632b7a60f9ee26fe6), the markdown version of a 15 pages-long research paper summary, in french, on the different types of hashing techniques.
