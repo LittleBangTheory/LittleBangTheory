@@ -10,4 +10,4 @@ Papers :
 
 - :clock1: A quick State of the Art of the [Fuzzing community](https://gist.github.com/LittleBangTheory/d846bbb365f07b074ac0f53a1866a2df) 
 - :lock: A quick (french) explanation of [ElGamal Algorithm](https://gist.github.com/LittleBangTheory/12359b16e77197732feb48d2c632ade5)
-- :hash: [Introduction to hashing]([https://gist.github.com/LittleBangTheory/32981bb8aefb84f632b7a60f9ee26fe6](https://github.com/LittleBangTheory/LittleBangTheory/blob/main/techniques_hachage.pdf)), a research paper summary, in french, on the different types of hashing techniques.
+- :hash: [Introduction to hashing](https://github.com/LittleBangTheory/LittleBangTheory/blob/main/techniques_hachage.pdf), a research paper summary, in french, on the different types of hashing techniques.
