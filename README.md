@@ -1,10 +1,8 @@
 # LittleBangTheory
 
-Projects : 
+:man: Student in engineering, specialized in IT, networks, and cybersecurity.
 
-- :man: Student in engineering, specialized in IT, networks, and cybersecurity.
-- :file_folder: You can find as pinned repositories some of my personal projects.
-- :hammer: [Fuzzungus](https://github.com/Projet-F/fuzzungus), a complete network fuzzer, forked from Boofuzz, a 6-month 3-persons full-time work !
+:file_folder: You can find as pinned repositories some of my personal projects.
 
 Papers : 
 
