@@ -1,6 +1,6 @@
 # LittleBangTheory
 
-:man: Student in engineering, specialized in IT, networks, and cybersecurity.
+:man: IT, networks, and cybersecurity.
 
 :file_folder: You can find as pinned repositories some of my personal projects.
 
